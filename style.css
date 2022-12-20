@@ -61,3 +61,12 @@ img {
 .jumbotron img {
     border: 1px solid rgb(247, 245, 245);
 }
+
+footer .container a {
+    text-decoration: none;
+
+}
+
+.navbar .container img {
+    width: 60px;
+}
