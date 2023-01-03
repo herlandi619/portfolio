@@ -1,72 +1,63 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-
-
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
 
 .body {
-    min-height: 4800px;
-
+  min-height: 4800px;
 }
 
 section {
-    padding-top: 7rem;
+  padding-top: 7rem;
 }
 
-
 .jumbotron {
-    padding-top: 10rem;
-    background-color: #add8e6;
-
+  padding-top: 10rem;
+  background-color: #add8e6;
 }
 
 .skill img {
-    width: 300px;
+  width: 300px;
 }
 
-
 footer {
-    background-color: #add8e6;
-    text-indent: none;
+  background-color: #add8e6;
+  text-indent: none;
 }
 
 /* navbar */
 .navbar .navbar-brand {
-    font-family: 'Dancing Script';
+  font-family: "Dancing Script";
 }
 
 .navbar .nav-item {
-    font-family: serif;
+  font-family: serif;
 }
 
 /* akhir navbar */
 
-
 /* jumbotron */
 .jumbotron h1,
 p {
-    font-family: Arial, Helvetica, sans-serif;
-    text-shadow: 1px 1px 1px 1px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 1px 1px 1px 1px;
 }
 
 /* akhir jumbotron */
 
 section .container:hover img {
-    transform: scale(.8);
-
+  transform: scale(0.8);
 }
 
 img {
-    transition: 1.3s;
+  transition: 1.3s;
 }
 
 .jumbotron img {
-    border: 1px solid rgb(247, 245, 245);
+  border: 1px solid rgb(247, 245, 245);
 }
 
 footer .container a {
-    text-decoration: none;
-
+  text-decoration: none;
 }
 
 .navbar .container img {
-    width: 60px;
+  width: 60px;
 }
